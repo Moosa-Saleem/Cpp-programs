@@ -18,7 +18,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * ** Multi-Program  Suite** - A centralized landing portal that smoothly bridges independent console utilities into a single active menu loop
 * ** Seat Reservation System** - A complete booking platform with dynamic passenger entry, live seat status checking, and instant ticket cancellation controls.
 * ** Plane Reservation System** - A specialized flight booking module featuring interactive menu loops, passenger verification, and a real-time cabin layout map.
-
+* **Voting & Car Rental System** -A console-based voting application with multi-candidate vote management and automatic winner declaration,-A streamlined automotive rental application to check vehicle status, book cars, and securely cancel active reservations.
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
