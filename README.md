@@ -19,6 +19,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * ** Seat Reservation System** - A complete booking platform with dynamic passenger entry, live seat status checking, and instant ticket cancellation controls.
 * ** Plane Reservation System** - A specialized flight booking module featuring interactive menu loops, passenger verification, and a real-time cabin layout map.
 * **Voting & Car Rental System** -A console-based voting application with multi-candidate vote management and automatic winner declaration,-A streamlined automotive rental application to check vehicle status, book cars, and securely cancel active reservations.
+* **gym_and_fitness_center_membership_system** -A C++ Gym & Fitness Center Membership System that uses vectors to add, view, search, and delete member profiles seamlessly.
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
