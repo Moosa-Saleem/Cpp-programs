@@ -21,6 +21,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **Voting & Car Rental System** -A console-based voting application with multi-candidate vote management and automatic winner declaration,-A streamlined automotive rental application to check vehicle status, book cars, and securely cancel active reservations.
 * **gym_and_fitness_center_membership_system** -A C++ Gym & Fitness Center Membership System that uses vectors to add, view, search, and delete member profiles seamlessly.
 * **Bus_Route_Management_System** -A lightweight, console-based Bus Route Management System written in C++ using structured programming. It efficiently tracks and manages city transit routes, bus numbers, and arrival/departure timings using vectors and custom data structures.
+* **mobile_balance_and_package_activaton_simulation** -This is a console-based C++ simulation program that manages customer profiles, tracks real-time mobile balances, and handles package activation with dynamic balance deduction.
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
