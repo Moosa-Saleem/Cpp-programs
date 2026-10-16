@@ -23,6 +23,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **Bus_Route_Management_System** -A lightweight, console-based Bus Route Management System written in C++ using structured programming. It efficiently tracks and manages city transit routes, bus numbers, and arrival/departure timings using vectors and custom data structures.
 * **mobile_balance_and_package_activaton_simulation** -This is a console-based C++ simulation program that manages customer profiles, tracks real-time mobile balances, and handles package activation with dynamic balance deduction.
 * **HR-ATTENDANCE-SYSTEM** -A console-based HR Attendance System developed to efficiently manage employee profiles, track daily present/absent logs, and monitor attendance metrics seamlessly.
+* **Restaurant Management System** - A simple C++ console application to view the menu and place fast food orders.
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
