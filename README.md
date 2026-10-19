@@ -24,7 +24,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **mobile_balance_and_package_activaton_simulation** -This is a console-based C++ simulation program that manages customer profiles, tracks real-time mobile balances, and handles package activation with dynamic balance deduction.
 * **HR-ATTENDANCE-SYSTEM** -A console-based HR Attendance System developed to efficiently manage employee profiles, track daily present/absent logs, and monitor attendance metrics seamlessly.
 * **Restaurant Management System** - A simple C++ console application to view the menu and place fast food orders.
-
+* **parking_lot_management** -A simple console-based C++ program that manages vehicle entries and exits for a 5-slot parking lot using automated counter tracking.
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
 * Conditional Statements (If-Else, Switch Case)
