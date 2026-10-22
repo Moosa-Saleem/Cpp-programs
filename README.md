@@ -27,6 +27,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **parking_lot_management** -A simple console-based C++ program that manages vehicle entries and exits for a 5-slot parking lot using automated counter tracking.
 * ** Blood Bank & Emergency Match Management System**-A console-based C++ application designed to register blood donors and instantly match them with recipients based on blood group availability.
 * **Login Page**-A simple C++ Console Login System that allows users to sign in, log in with their unique IDs, track their online/offline status, and log out securely.
+*  **Pharmacy Stock & Billing System**-A lightweight C++ console application that maintains a pharmacy inventory database and generates automated, real-time customer bills.
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
