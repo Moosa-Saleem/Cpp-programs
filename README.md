@@ -28,6 +28,8 @@ Welcome to my C++ projects repository! This collection contains various console-
 * ** Blood Bank & Emergency Match Management System**-A console-based C++ application designed to register blood donors and instantly match them with recipients based on blood group availability.
 * **Login Page**-A simple C++ Console Login System that allows users to sign in, log in with their unique IDs, track their online/offline status, and log out securely.
 *  **Pharmacy Stock & Billing System**-A lightweight C++ console application that maintains a pharmacy inventory database and generates automated, real-time customer bills.
+*  **Real_Estate_program**-A C++ Menu-Driven Real Estate System that lets users store plot details, view availability, and securely buy plots using a precise multi-criteria search logic.
+  
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
