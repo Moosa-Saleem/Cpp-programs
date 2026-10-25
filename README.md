@@ -29,6 +29,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **Login Page**-A simple C++ Console Login System that allows users to sign in, log in with their unique IDs, track their online/offline status, and log out securely.
 *  **Pharmacy Stock & Billing System**-A lightweight C++ console application that maintains a pharmacy inventory database and generates automated, real-time customer bills.
 *  **Real_Estate_program**-A C++ Menu-Driven Real Estate System that lets users store plot details, view availability, and securely buy plots using a precise multi-criteria search logic.
+*  **Men's Hair Saloon System**: A lightweight C++ console application designed to efficiently manage salon customer registrations and track their hair and skin care treatment billing
   
 
 ## 🛠️ Concepts I Practiced
