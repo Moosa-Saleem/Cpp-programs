@@ -31,6 +31,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 *  **Real_Estate_program**-A C++ Menu-Driven Real Estate System that lets users store plot details, view availability, and securely buy plots using a precise multi-criteria search logic.
 *  **Men's Hair Saloon System**: A lightweight C++ console application designed to efficiently manage salon customer registrations and track their hair and skin care treatment billing
 *  **University Sports Registration System**- is a resource-efficient C++ console application that manages student athletes. It allows users to register player details into fixed arrays, display the roster, and enforce strict entry limits using clean switch-case logic.
+*  **FACTORY WORKERS HIRING**-A C++ menu-driven Factory Workers Management System that allows administrators to dynamically hire, display, and fire workers using array shifting logic.
   
 
 ## 🛠️ Concepts I Practiced
