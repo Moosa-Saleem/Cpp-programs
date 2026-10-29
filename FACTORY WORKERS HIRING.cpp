@@ -9,8 +9,9 @@ void factory_workers_hiring(){ const int total_entries=3;
     cout<<"****************************************"<<endl;
 cout<<"ENTER 1 TO HIRE FACTORY WORKER\nENTER 2 TO FIRE FACTORY WORKER\nENTER 3 TO DISPLAY FACTORY WORKERS HIRED\nENTER 4 TO EXIT"<<endl;
 cout<<"------------------------------------"<<endl;
-cout<<"ENTER YOUR CHOICE : ";cin>>choice;cout<<"---------------------------------"<<endl;cin.ignore();
-switch(choice){case 1:{if(total_workers_hired<total_entries){cout<<"ENTER WORKER NAME : ";getline(cin,worker_name[total_workers_hired]);
+cout<<"ENTER YOUR CHOICE : ";cin>>choice;cout<<"---------------------------------"<<endl;
+switch(choice){case 1:{if(total_workers_hired<total_entries){cout<<"ENTER WORKER NAME : ";
+        cin.ignore();  getline(cin,worker_name[total_workers_hired]);
 cout<<"ENTER WORKER ID : ";cin>>worker_id[total_workers_hired];total_workers_hired++;}
 else{cout<<"-----HIRING IS OVER-----"<<endl;}break;}
       case 2:{  bool found=false;  cout<<"ENTER WORKER ID TO FIRE: ";cin>>id; 
